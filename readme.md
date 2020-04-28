@@ -1,5 +1,5 @@
 
-Question
+This notebook answers the following Questions :
 
     It uses the sample dataset https://raw.githubusercontent.com/localytics/data-viz-challenge/master/data.json
 
@@ -19,4 +19,4 @@ e. sum column is the summing the value of the 'amount' key
 
 f. only calculates entries for female ( "gender": "F" ) and Californian ("state": "CA") users.
 
-You can use Python libraries if you wish. For completing the assignment please send me the program that you wrote, and the location of the CSV output file.
+
